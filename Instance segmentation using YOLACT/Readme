@@ -1,1 +1,2 @@
-
+This folder is to perform the instance segmentation using YOLACT (You Only Look At CoefficienTs) state-of-the-art model
+Refer to the 'Setup' file for setting up the configurations before training
