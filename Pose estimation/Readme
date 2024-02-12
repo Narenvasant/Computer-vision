@@ -1,1 +1,5 @@
+These codes are used for detecting the pixel coordinates of keypoints for the pose estimation task of computer vision. 
+YOLOv8 state-of-the-art model is used for training. 
+Refer to this link dataset guide of YOLOv8 - pose estimation: https://docs.ultralytics.com/datasets/pose/
+The testing file can be used to test the trained model on random images, get the predicted keypoints and plot them on the image with predicted and ground truth coordinates. 
 
