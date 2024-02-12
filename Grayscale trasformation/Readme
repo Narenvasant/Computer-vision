@@ -1,1 +1,3 @@
-
+This code is to transform the original image into grayscale.
+It is performed using a trained segmentation model
+YOLO (You Only Look Once) is used for training a model for segmentation and the trained model file is being used here for the transformation. 
