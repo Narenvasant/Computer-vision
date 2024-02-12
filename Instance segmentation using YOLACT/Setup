@@ -13,3 +13,5 @@ export CUDA_VISIBLE_DEVICES=[gpus]
 
 #Download a backbone model:
 Here yolact_base_54_800000.pth is used as the backbone model. 
+
+#Change the  config.py file to update for custom dataset
