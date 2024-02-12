@@ -1,1 +1,3 @@
-
+The foreground separation is performed using a trained segmentation model.
+The trained segmentation model is from YOLO (You Only Look Once).
+There are 2 codes, one for the white foreground separation on an image, and the other to test it on a folder containing random test images. 
