@@ -1,1 +1,3 @@
-
+These are cells from jupyter notebook which is used to train the RGB images for instace segmentation
+The plotting and testing codes after the training is also given
+For dataset format, refer https://docs.ultralytics.com/datasets/segment/
