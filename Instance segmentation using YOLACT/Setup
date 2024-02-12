@@ -1,0 +1,10 @@
+#CLone the gihub model of YOLACT
+git clone https://github.com/dbolya/yolact.git
+cd yolact
+
+#Create the environment using .yml file
+conda env create -f environment.yml
+
+#Set the GPU
+export CUDA_VISIBLE_DEVICES=[gpus] 
+#1,2,3 for [gpus] depending on number of GPU
