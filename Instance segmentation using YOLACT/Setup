@@ -1,10 +1,15 @@
+Refer to this link for the YOLACT model: https://github.com/dbolya/yolact
+
 #CLone the gihub model of YOLACT
 git clone https://github.com/dbolya/yolact.git
 cd yolact
 
-#Create the environment using .yml file
+#Create the environment using the .yml file
 conda env create -f environment.yml
 
 #Set the GPU
 export CUDA_VISIBLE_DEVICES=[gpus] 
-#1,2,3 for [gpus] depending on number of GPU
+#1,2,3 for [gpus] depending on the number of GPUs 
+
+#Download a backbone model:
+Here yolact_base_54_800000.pth is used as the backbone model. 
