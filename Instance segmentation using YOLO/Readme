@@ -1,3 +1,4 @@
-These are cells from jupyter notebook which is used to train the RGB images for instace segmentation
-The plotting and testing codes after the training is also given
-For dataset format, refer https://docs.ultralytics.com/datasets/segment/
+YOLO(You Only Look Once) is a state-of-the-art model that can be used for various computer vision tasks like detection, segmentation, and pose estimation. 
+These are cells from jupyter notebook which is used to train the RGB images for instance segmentation
+The plotting and testing codes after the training are also given
+For dataset format, refer to https://docs.ultralytics.com/datasets/segment/
