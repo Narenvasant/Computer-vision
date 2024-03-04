@@ -1,1 +1,4 @@
-
+Train a segmentation model with multiple classes(objects). I have used YOLOv8 SOTA model for this purpose
+Replace the trained file path to your own model
+The output will be displayed with only masks of each objects in a white background
+Here, the segmentation is performed for 5 objects. For more objects, increase the color coding.
