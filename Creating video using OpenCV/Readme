@@ -1,0 +1,3 @@
+This code shows the ability of OpenCV to create a video from folders containing images
+
+Here, I am creating a video of the segmented images containing an excavator. These images are used to create a video respective to each folder at 60 fps
